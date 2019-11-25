@@ -1,4 +1,5 @@
-# CriativaAtrativaTecnologia
+# Criativa Atrativa Tecnologia da Informação e Computação
+
 Nosso propósito e bandeira aqui será sempre melhorar e incentivar jovens a gostar de aprender a tecnologia da informação.
 
 Cada vez mais os jovens abandonam as faculdades de tecnologia por falta de professores criativos com capacidade atrativa para fazerem os alunos a gostarem de criar novas tecnologias.
