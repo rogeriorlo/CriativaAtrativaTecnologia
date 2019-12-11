@@ -1,12 +1,12 @@
 # Criativa Atrativa Tecnologia da Informação e Computação
 
-Nosso propósito e bandeira aqui será sempre melhorar e incentivar jovens a gostar de aprender a tecnologia da informação.
+Nosso propósito e bandeira aqui será sempre melhorar e incentivar jovens a gostar de aprender a programar computadores usando a tecnologia da informação como sua principal profissão e ocupação.
 
-Cada vez mais os jovens abandonam as faculdades de tecnologia por falta de professores criativos com capacidade atrativa para fazerem os alunos a gostarem de criar novas tecnologias.
+Cada vez mais os jovens abandonam as faculdades de tecnologia por falta de professores criativos com capacidade atrativa para fazerem os alunos a gostarem de criar novas soluções para o nosso mundo ainda engatinhando nas tecnologias.
 
-Como reverter esse quadro caótico de debandada geral. 
+Como reverter esse quadro caótico de debandada geral dos alunos nos principais cursos de tecnologia. 
 
-Muito decepcionante e númeras frustrações de jovens se depararem com péssimos professores e cursos incapazes de realizarem uma boa formação e até mesmo aula criativa e atrativa demonstrando o valor e o mérito de se fazer tecnologia de verdade.
+Muito decepcionante e númeras frustrações de jovens se depararem com péssimos professores e cursos incapazes de realizarem uma boa formação e até mesmo aulas criativas e atrativas demonstrando o valor e o mérito de se fazer tecnologia de verdade.
 
 Uma engenharia nova com menos de 80 anos, que muitos desconhecem sua origem e sua fantástica e cabulosa evolução. 
 
